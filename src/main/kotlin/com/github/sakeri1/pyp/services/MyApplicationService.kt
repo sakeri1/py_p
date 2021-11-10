@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sakeri1.pyp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sakeri1.pyp.MyBundle
 
 class MyApplicationService {
 
